@@ -8,5 +8,4 @@ Tools used :
 -Python 
 -Pandas
 -Matplotlib
--NLTK
 -seaborn
